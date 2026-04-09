@@ -1,12 +1,35 @@
 # Selam, ben Erhan! 👋
 
-Yazılım dünyasında kendimi geliştiren bir öğrenci ve geliştiriciyim. 
-Özellikle mobil uygulama geliştirme ve sistem programlama ile ilgileniyorum.
+---
 
-### 🛠 Teknolojilerim
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🚀 Nelerle İlgileniyorum?
 
-### 📊 GitHub İstatistiklerim
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErhanNamal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+* **Mobil & Frontend:** React Native, Expo, Flutter ve Tailwind CSS ile modern, kullanıcı dostu uygulamalar geliştiriyorum.
+* **Sistem & Backend:** Rust ve Go üzerine çalışmalar yapıyorum; performans ve güvenlik odaklı yapılar ilgimi çekiyor.
+* **İşletim Sistemleri:** Tam bir Linux tutkunuyum, geliştirme süreçlerimi Ubuntu ve WSL 2 üzerinde kurguluyorum.
+
+---
+
+### 🛠 Teknoloji Yığınım
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Diller** | Rust, Go, Python, C#, C++, Mojo |
+| **Frontend/Mobil** | React Native, Flutter, JavaScript, HTML, CSS |
+| **Araçlar & OS** | Ubuntu, WSL 2, Git, Docker |
+
+---
+
+### 📂 Öne Çıkan Projelerim
+
+* **Go & Rust API'ları:** Kitap yönetim ve hesap makinesi gibi performans odaklı mikro servis denemeleri.
+
+---
+
+### 📊 GitHub İstatistiklerim (Fixlendi)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErhanNamal&show_icons=true&theme=tokyonight" alt="Erhan's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErhanNamal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
