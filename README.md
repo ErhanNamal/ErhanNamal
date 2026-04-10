@@ -29,7 +29,7 @@
 ### 📊 GitHub İstatistiklerim (Fixlendi)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErhanNamal&show_icons=true&theme=tokyonight" alt="Erhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErhanNamal&show_icons=true&theme=tokyonight" alt="Erhan's GitHub Stats" &count_private=true/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErhanNamal&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
