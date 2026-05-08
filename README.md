@@ -13,7 +13,7 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,rust,go,cs,py,linux,ubuntu,git,vscode,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,rust,go,cs,py,cpp,java,php,swift,kotlin,ruby,lua,perl,scala,haskell,julia,r,elixir,clojure,nim,crystal,solidity,arduino,linux,ubuntu,git,vscode,figma&perline=10" />
   </a>
 </p>
 
