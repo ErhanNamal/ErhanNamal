@@ -1,4 +1,17 @@
-# Selam! Ben Erhan 👋
+<div align="center">
+
+  <!-- Animated Banner -->
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e1e&height=120&section=header&text=Erhan%20Namal&fontSize=50&fontColor=ffffff" width="100%" />
+</p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ErhanNamal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/ErhanNamal?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/ErhanNamal?style=for-the-badge&color=yellow&labelColor=1a1a1a&label=TOTAL+STARS" alt="Stars" />
+  </p>
+
+</div>
 
 ### 🚀 Hakkımda
 Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren bir yazılım tutkunuyum. Performanslı sistemler inşa etmek ve mobil dünyada yenilikçi çözümler üretmek üzerine çalışıyorum.
@@ -13,7 +26,7 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,rust,go,cs,py,cpp,java,php,swift,kotlin,ruby,lua,perl,scala,haskell,julia,r,elixir,clojure,nim,crystal,solidity,arduino,linux,ubuntu,git,vscode,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,rust,go,cs,py,cpp,java,php,swift,kotlin,solidity,arduino,linux,ubuntu,git,vscode,figma&perline=11" />
   </a>
 </p>
 
@@ -24,10 +37,10 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=ErhanNamal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="195em"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=ErhanNamal&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" height="195em"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErhanNamal&layout=compact&theme=tokyonight" height="195em" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErhanNamal&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=30363d" height="195em" />
     </td>
   </tr>
 </table>
@@ -35,8 +48,15 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 ---
 
 ### 🏆 Öne Çıkan Projeler
+<div align="center">
 
-* **[Rust-CLI Tools]** — Performans odaklı, düşük seviyeli dil pratikleri ve mikro araçlar.
+| Proje | Teknoloji | Odak | Açıklama |
+| :---- |  :---: | :---: | :--- |
+| **[Rust-CLI Tools](https://github.com/ErhanNamal/Rust-HesapMakinesi)** | Rust | Performans | Düşük seviyeli dil pratikleri ve mikro araçlar. |
+| **[ReactAndroid-YemekTarifiUygulamas-](https://github.com/ErhanNamal/ReactAndroid-YemekTarifiUygulamas-)** | React | Performans | Düşük seviyeli dil pratikleri ve mikro araçlar. |
+
+
+</div>
 
 ---
 
@@ -48,12 +68,16 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 ---
 
 ### 🎨 İlgi Alanları
-Strateji oyunlarında taktiksel derinliği keşfediyorum. Stoacı bir perspektifle her gün daha iyi bir versiyonumu inşa etmeye odaklıyım.
+Strateji oyunlarında taktiksel derinliği keşfediyorum.
 
 ---
 
 ### 🌐 İletişim
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:13gunpara@gmail.com)
+<p align="left">
+<a href="mailto:13gunpara@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 > **"Engel, yolun kendisidir."**
 
