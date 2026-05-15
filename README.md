@@ -26,7 +26,7 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,rust,go,cs,py,cpp,java,php,swift,kotlin,solidity,arduino,linux,ubuntu,git,vscode,figma&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,tailwind,rust,go,cs,py,cpp,java,php,swift,kotlin,arduino,linux,ubuntu,git,vscode,figma&perline=11" />
   </a>
 </p>
 
@@ -52,9 +52,9 @@ Modern yazılım mimarileri ve kullanıcı deneyimi odaklı projeler geliştiren
 
 | Proje | Teknoloji | Odak | Açıklama |
 | :---- |  :---: | :---: | :--- |
-| **[Rust-CLI Tools](https://github.com/ErhanNamal/Rust-HesapMakinesi)** | Rust | Performans | Düşük seviyeli dil pratikleri ve mikro araçlar. |
-| **[ReactAndroid-YemekTarifiUygulamas-](https://github.com/ErhanNamal/ReactAndroid-YemekTarifiUygulamas-)** | React | Performans | Düşük seviyeli dil pratikleri ve mikro araçlar. |
-
+| **[Focus-Flow](https://github.com/ErhanNamal/Focus-Flow)** | C# / .NET | Sistem | Windows API & ntdll entegrasyonu ile gelişmiş odaklanma ve uygulama dondurma aracı. |
+| **[Aruna](https://github.com/ErhanNamal/Aruna)** | Rust | Performans | Rust ile geliştirilmiş, terminal tabanlı hafif sistem izleme ve performans aracı. |
+| **[Menu-Driven Calculator](https://github.com/ErhanNamal/Menu-Driven-Calculator)** | 50 Diller | Algoritma | 50 farklı programlama dilinde implemente edilmiş kapsamlı hesaplama motoru. |
 
 </div>
 
